@@ -9,7 +9,7 @@
   "server": {
     "ip": "minemate.aternos.me",
     "port": 32492,
-    "version": "26.1.2"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
